@@ -1,0 +1,14 @@
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\bin\Debug\AcessoDadosC#.exe
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\bin\Debug\AcessoDadosC#.pdb
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\obj\Debug\AcessoDadosC#.exe
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\obj\Debug\AcessoDadosC#.pdb
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\obj\Debug\AcessoDadosC_.MainForm.resources
+C:\Documents and Settings\f5361091\Meus documentos\SharpDevelop Projects\AcessoDadosC#\obj\Debug\AcessoDadosC#.csproj.GenerateResource.Cache
+C:\_shpd_c#\AcessoDadosC#\obj\Debug\ResolveAssemblyReference.cache
+C:\_shpd_c#\AcessoDadosC#\obj\Debug\AcessoDadosC_.MainForm.resources
+C:\_shpd_c#\AcessoDadosC#\obj\Debug\AcessoDadosC#.csproj.GenerateResource.Cache
+C:\_shpd_c#\AcessoDadosC#\obj\Debug\AcessoDadosC#.exe
+C:\_shpd_c#\AcessoDadosC#\obj\Debug\AcessoDadosC#.pdb
+C:\_shpd_c#\AcessoDadosC#\bin\Debug\AcessoDadosC#.exe
+C:\_shpd_c#\AcessoDadosC#\bin\Debug\AcessoDadosC#.pdb
